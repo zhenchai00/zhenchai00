@@ -1,4 +1,4 @@
-### Hi there 👋
+![zhenchai00 GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zhenchai00&show_icons=true&theme=highcontrast)
 
 <!--
 **zhenchai00/zhenchai00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
