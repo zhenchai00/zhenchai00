@@ -1,4 +1,6 @@
-![zhenchai00 GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zhenchai00&show_icons=true&theme=highcontrast)
+[![zhenchai00's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhenchai00&show_icons=true&theme=transparent&count_private=true)](https://github-readme-stats.vercel.app/api?username=zhenchai00&show_icons=true&theme=github_dark&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenchai00&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenchai00&layout=compact)
 
 <!--
 **zhenchai00/zhenchai00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
