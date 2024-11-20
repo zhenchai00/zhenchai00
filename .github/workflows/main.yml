@@ -31,6 +31,13 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.png?pallet=dark
 
+      # create dist directory explicitly
+      - name: create dist directory
+        run: mkdir -p dist
+      
+      - name: list files in dist directory
+        run: ls -R dist
+
       # push the content of <build_dir> to a branch
       # the content will be available at  https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contributions-grid-snake.svg to the output branch
