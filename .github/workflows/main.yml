@@ -21,6 +21,10 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      # create dist directory explicitly
+      - name: create dist directory
+        run: mkdir -p dist
+
       # generates a snake game from a github user (<github_user_name>) contributions graph,
       # output a svg animation at <svg_output_path>
       - name: generate github-contribution-grid-snake.svg
@@ -30,10 +34,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.png?pallet=dark
-
-      # create dist directory explicitly
-      - name: create dist directory
-        run: mkdir -p dist
       
       - name: list files in dist directory
         run: ls -R dist
