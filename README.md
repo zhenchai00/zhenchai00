@@ -7,10 +7,19 @@
 
 <h3 align="center">My Github Status</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhenchai00&show_icons=true&locale=en&layout=compact" alt="zhenchai00" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zhenchai00&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zhenchai00&show_icons=true&locale=en&layout=compact">
+    <img alt="zhenchai00 github status" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhenchai00&show_icons=true&locale=en&layout=compact">
+  </picture>
 </p>
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenchai00&show_icons=true&locale=en" alt="zhenchai00" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zhenchai00&show_icons=true&locale=en&theme=github_dark_dimmed">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zhenchai00&show_icons=true&locale=en">
+    <img alt="zhenchai00 github status" src="https://github-readme-stats.vercel.app/api?username=zhenchai00&show_icons=true&locale=en">
+  </picture>
 </p>
 
 <picture>
